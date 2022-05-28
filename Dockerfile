@@ -1,2 +1,2 @@
-From nginx:latest
+From nginx:stable
 COPY index.html /usr/share/nginx/html
